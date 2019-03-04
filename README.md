@@ -1,5 +1,8 @@
 Protection Profile for Enterprise Systems Management
 ===============
+[![Build Status](https://travis-ci.com/commoncriteria/esm-systemsmanagement.svg?branch=master)](https://travis-ci.com/commoncriteria/esm-systemsmanagement)
+[![GitHub issues Open](https://img.shields.io/github/issues/commoncriteria/esm-systemsmanagement.svg?maxAge=2592000)](https://github.com/commoncriteria/esm-systemsmanagement/issues) 
+![license](https://img.shields.io/badge/license-Unlicensed-blue.svg)
 
 This repository hosts the draft version of the Protection Profile for Enterprise Systems Management based on the 
 [Essential Security Requirements (ESR)](https://commoncriteria.github.io/pp/esm-systemsmanagement/esm-systemsmanagement.html) for this technology class of 
