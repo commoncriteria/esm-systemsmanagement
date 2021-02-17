@@ -1,6 +1,6 @@
 Protection Profile for Enterprise Systems Management
 ===============
-[![Build Status](https://travis-ci.com/commoncriteria/esm-systemsmanagement.svg?branch=master)](https://travis-ci.com/commoncriteria/esm-systemsmanagement)
+![Build](https://github.com/commoncriteria/esm-systemsmanagement/workflows/Build/badge.svg)
 [![GitHub issues Open](https://img.shields.io/github/issues/commoncriteria/esm-systemsmanagement.svg?maxAge=2592000)](https://github.com/commoncriteria/esm-systemsmanagement/issues) 
 ![license](https://img.shields.io/badge/license-Unlicensed-blue.svg)
 
